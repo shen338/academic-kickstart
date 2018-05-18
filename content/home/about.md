@@ -7,34 +7,20 @@ date = 2016-04-20T00:00:00
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Hello! 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was born and grew up in a small mountain town, [Xixia](https://en.wikipedia.org/wiki/Xixia_County). 
+I spent four years at [Xi'an, Shannxi](https://en.wikipedia.org/wiki/Xi%27an), and obtained my Bachelor 
+degree at [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University)(2012-2016). 
+Now, I am a master student in mechanical engineering at [Purdue University](www.purdue.edu), concentrating on 
+Deep Learning and Computer Vision.    
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I play basketball as a three point shooter. I am also a huge fun of Cleveland Cavaliars and Lebron James. 
+In my spare time, I enjoy immersing myself in science fictions. My favorite novel series is 
+[Galactic Empire](https://en.wikipedia.org/wiki/Galactic_Empire_(series)) by Isaac Asimov. I am also an amateur
+bodybuilder and powerlifter. 
